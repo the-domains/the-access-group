@@ -1,0 +1,25 @@
+typography_spectrum: 0.1418320625089109
+color:
+  brandStrength: 0.45724469400011003
+  lightness: 0.8889658392872661
+  saturation: 0.10689309006556869
+  rhythmicContrast: 0.4319276036694646
+  brandColors:
+    - '#F8F9FC'
+    - '#224FAA'
+    - '#A62626'
+    - '#3D588F'
+    - '#C7CAD1'
+github: true
+layout_spectrum: 0.9244208931922913
+author:
+  name: Taimour Zaman
+  email: taimour@access-group.ca
+name: The Access Group
+title: Grow Revenues  via Unique Marketing Programs & Game Changing Technologies
+content: []
+description: ''
+purpose:
+  - type: external
+    url: 'http://www.access-group.ca/promo'
+    label: Download 15 Leads Per Day
