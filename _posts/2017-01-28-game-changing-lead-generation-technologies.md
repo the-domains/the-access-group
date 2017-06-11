@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-06-11T07:47:06.486Z'
-dateModified: '2017-06-11T07:47:05.449Z'
+datePublished: '2017-06-11T07:47:42.162Z'
+dateModified: '2017-06-11T07:47:41.661Z'
 description: >-
   We add “artificial intelligence” into your sales campaigns to instantly
   identify qualified leads. Compare our results to any of your existing sales
@@ -57,7 +57,7 @@ _type: Article
 
 ---
 
-## Vcita
+## vCita
 [Get A Smart Scheduling System][5]
 
 [Save yourself thousands of emails (and hundreds of hours) when trying to schedule a meeting with someone - by sending a link to your online calendar to people that you want to meet with. What makes this smart scheduling platform amazing is that:][4]
