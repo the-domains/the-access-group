@@ -1,25 +1,93 @@
-typography_spectrum: 0.1418320625089109
-color:
-  brandStrength: 0.45724469400011003
-  lightness: 0.8889658392872661
-  saturation: 0.10689309006556869
-  rhythmicContrast: 0.4319276036694646
-  brandColors:
-    - '#F8F9FC'
-    - '#224FAA'
-    - '#A62626'
-    - '#3D588F'
-    - '#C7CAD1'
-github: true
-layout_spectrum: 0.9244208931922913
-author:
-  name: Taimour Zaman
-  email: taimour@access-group.ca
 name: The Access Group
-title: Grow Revenues  via Unique Marketing Programs & Game Changing Technologies
-content: []
-description: ''
+analytics: {}
 purpose:
   - type: external
-    url: 'http://www.access-group.ca/promo'
-    label: Download 15 Leads Per Day
+    url: 'https://live.vcita.com/site/taimourzaman'
+    label: Book Your 3 Points Revenue Generation Blue Print
+github: true
+author:
+  name: Taimour Zaman
+  url: 'http://www.access-group.ca/'
+  email: taimour@access-group.ca
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fa8xhReAPWD0%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Da8xhReAPWD0&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fa8xhReAPWD0%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      author:
+        - name: 'Taimour Zaman: The Access Group & OME'
+          url: 'https://www.youtube.com/channel/UCsOMXjUN5sV9gbURIRGAfRg'
+          avatar: {}
+      datePublished: null
+      keywords: []
+      '@type': VideoObject
+      title: sales meetings
+      isBasedOnUrl: 'https://youtu.be/a8xhReAPWD0'
+      publisher:
+        favicon: 'https://www.youtube.com/favicon.ico'
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        domain: youtu.be
+      description: 'Uploaded by Taimour Zaman: The Access Group & OME on 2017-02-09.'
+      related: []
+      app_links: []
+      '@context': 'http://schema.org'
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+navigation:
+  - name: Blog
+    id: 19454a19-295d-48ce-9a89-55afc2089e27
+    type: content
+  - name: About Founder
+    id: a2e776ca-dd0f-487c-a322-03c7ce9ba874
+    type: content
+  - name: 'List of  Lead Generation Technologies, Consulting & Free Resources'
+    id: f972a213-d9ff-4683-88e3-973556a1e66a
+    type: content
+  - name: Events & Webinars
+    id: 6696f918-73f4-4997-b13e-7745525e31a9
+    type: content
+  - name: Services
+    id: 0c4adec0-8c51-4785-8a96-8284ca41d396
+    type: content
+layout_spectrum: 0.09726817852568508
+color:
+  lightness: 0.6439788252065456
+  brandColors:
+    - '#FFFFFF'
+    - '#599EEF'
+    - '#CFCFCF'
+    - '#8CBBF5'
+    - '#356FBA'
+  saturation: 0.6331187585716385
+  brandStrength: 0.004210160475795959
+  rhythmicContrast: 0.3889499847617665
+content_rating:
+  adult: false
+typography_spectrum: 0.9555676956204605
+opengraph:
+  appId: taimour.zaman@facebook.com
+title: >-
+  Increase your sales using sales program and artificial intelligence
+  technologies
+coverPrefs:
+  filter: false
+description: ''
