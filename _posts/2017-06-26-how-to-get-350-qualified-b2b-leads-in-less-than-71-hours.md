@@ -1,15 +1,17 @@
 ---
-inFeed: true
+inFeed: false
 description: How to get 350 qualified B2B leads in less than 71 hours?
-dateModified: '2017-06-26T20:37:28.249Z'
-datePublished: '2017-06-26T20:37:28.711Z'
+dateModified: '2017-06-26T20:37:40.856Z'
+datePublished: '2017-06-26T20:37:41.449Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-06-26-how-to-get-350-qualified-b2b-leads-in-less-than-71-hours.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-06-26T20:37:28.711Z'
-sourcePath: _posts/2017-06-26-how-to-get-350-qualified-b2b-leads-in-less-than-71-hours.md
+url: how-to-get-350-qualified-b2b-leads-in-less-than-71-hours/index.html
 _type: Blurb
 
 ---
