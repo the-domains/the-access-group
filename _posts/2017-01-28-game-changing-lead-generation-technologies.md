@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-06-11T07:47:42.162Z'
-dateModified: '2017-06-11T07:47:41.661Z'
+datePublished: '2017-06-26T21:23:26.099Z'
+dateModified: '2017-06-26T21:23:25.776Z'
 description: >-
   We add “artificial intelligence” into your sales campaigns to instantly
   identify qualified leads. Compare our results to any of your existing sales
@@ -13,9 +13,9 @@ title: List of Lead Generation Technologies & Free Resources
 hasPage: true
 inFeed: true
 author: []
+datePublishedOriginal: '2017-06-26T21:23:26.099Z'
 starred: false
-datePublishedOriginal: '2017-01-29T03:02:03.092Z'
-url: game-changing-lead-generation-technologies-coaching-and-fre/index.html
+url: list-of-lead-generation-technologies-and-free-resources/index.html
 _type: Article
 
 ---
