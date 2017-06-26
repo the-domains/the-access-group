@@ -35,9 +35,6 @@ navigation:
   - name: Events & Webinars
     id: 6696f918-73f4-4997-b13e-7745525e31a9
     type: content
-  - name: Blog
-    id: f6b1ff71-ca44-4d2b-951d-eb3dc14da6b6
-    type: content
 collections:
   - index:
       path: /
