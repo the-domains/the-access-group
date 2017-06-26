@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: Have you ever felt frustrated going through junk leads? I know I have.
-dateModified: '2017-06-26T21:22:41.946Z'
-datePublished: '2017-06-26T21:22:42.679Z'
+dateModified: '2017-06-26T21:22:48.903Z'
+datePublished: '2017-06-26T21:22:49.624Z'
 title: Blog
 author: []
 publisher: {}
@@ -15,8 +15,6 @@ url: blog/index.html
 _type: Blurb
 
 ---
----
-
 # **Blog**
 
 ## **How to get 350 qualified B2B leads in less than 71 hours?**
