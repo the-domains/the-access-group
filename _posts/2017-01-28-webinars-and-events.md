@@ -3,16 +3,16 @@ inFeed: true
 description: >-
   On August 11th, join me and Taimour Zaman on an amazing webinar titled: "How
   to Reduce the Time Sales Reps Spend on Non Selling Activities?"
-dateModified: '2017-06-26T20:41:34.242Z'
-datePublished: '2017-06-26T20:41:34.823Z'
+dateModified: '2017-06-26T21:23:25.732Z'
+datePublished: '2017-06-26T21:23:25.941Z'
 title: Webinars & Events
 author: []
 publisher: {}
 via: {}
 hasPage: true
 sourcePath: _posts/2017-01-28-webinars-and-events.md
+datePublishedOriginal: '2017-06-26T21:23:25.941Z'
 starred: false
-datePublishedOriginal: '2017-06-26T20:27:20.279Z'
 url: webinars-and-events/index.html
 _type: Article
 
