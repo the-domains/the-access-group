@@ -44,7 +44,6 @@ content:
       keywords:
         - ''
       description: 'Uploaded by Taimour Zaman: The Access Group & OME on 2017-06-26.'
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=7hraupLO3aA&feature=applinks'
