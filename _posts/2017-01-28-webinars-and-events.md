@@ -1,11 +1,10 @@
 ---
 inFeed: true
 description: >-
-  Do you spend much of your time trying to put together sales programs and/or
-  leveraging various lead generation technologies? We know we certainly did (for
-  a while).
-dateModified: '2017-04-11T03:12:27.610Z'
-datePublished: '2017-06-26T20:27:20.279Z'
+  On August 11th, join me and Taimour Zaman on an amazing webinar titled: "How
+  to Reduce the Time Sales Reps Spend on Non Selling Activities?"
+dateModified: '2017-06-26T20:41:34.242Z'
+datePublished: '2017-06-26T20:41:34.823Z'
 title: Webinars & Events
 author: []
 publisher: {}
@@ -20,38 +19,6 @@ _type: Article
 ---
 # Webinars & Events
 
----
-
-## How to design pilot projects with customers so that you can instantly reduce your sales cycle times.
-
-Do you spend much of your time trying to put together sales programs and/or leveraging various lead generation technologies? We know we certainly did (for a while).
-
-Join us on May 11th as David Giannetto (Author of Big, Social and Mobile -- one of the top technology books sold in 2016), discusses how to design pilot projects with customers so that you can instantly reduce your sales cycle times.
-
-Some of David's tips can instantly be applied to some of your current projects and could dramatically improve the outcomes you want to produce.
-
-The session will be from 12:00 pm EST to 1:00 pm EST and there are limited seats available.
-
-Please RSVP right away. [https://access-group.clickfunnels.com/webinar-registrationbn6n1bf2][0]
-
----
-
-## How artificial intelligence technologies are disrupting long sales cycle times and replacing bad business development models
-
-Have you ever felt frustrated when sales and marketing departments missed their quarterly quota? I know I have.
-
-Today's sales cycle times are becoming longer while quotas are becoming bigger & harder to meet on a consistent basis.
-
-One industry that is disrupting the challenges in organizations meeting their sales targets is the "artificial intelligence" (AI) industry. New AI technologies are now instantly finding new customers in the B2B or B2C world; and, companies that are utilizing these technologies are reporting 3x revenue growth.
-
-Join us on June 8th as Sanjit Singh (one of the world's brilliant marketing technologists) showcases how artificial intelligence technologies are disrupting long sales cycle times and replacing bad business development models. His proven technology could change your organizations ability to meets its sales quotas.
-
-The session will be from 12:00 pm EST to 1:00 pm EST and there are limited seats available. Please RSVP right away.
-
-[https://access-group.clickfunnels.com/webinar-registrationq8scmju3][1]
-
----
-
 ## How to Reduce the Time Sales Reps Spend on Non Selling Activities?
 
 On August 11th, join me and Taimour Zaman on an amazing webinar titled: "How to Reduce the Time Sales Reps Spend on Non Selling Activities?"
@@ -62,7 +29,7 @@ You will leave the session with:
 * Meet Adrian and understand why he's one of the most successful executive sales coaches.
 * An opportunity to meet and network with peers from across North America.The session will be from 12:00 pm EST to 1:00 pm EST and there are limited seats available. Please RSVP right away.
 
-[https://access-group.clickfunnels.com/webinar-registration7yqodb29][2]
+[https://access-group.clickfunnels.com/webinar-registration7yqodb29][0]
 
 ---
 
@@ -81,7 +48,7 @@ The session will be from 12:00 pm EST to 1:00 pm EST and there are limited seats
 
 Please RSVP right away.
 
-[https://access-group.clickfunnels.com/webinar-registration66g122uf][3]
+[https://access-group.clickfunnels.com/webinar-registration66g122uf][1]
 
 ---
 
@@ -99,7 +66,7 @@ You will leave the session with understanding:
 
 The session will be from 12:00 pm EST to 1:00 pm EST and there are limited seats available.
 
-RSVP Here: [https://access-group.clickfunnels.com/webinar-registrationrgg5ay7l][4]
+RSVP Here: [https://access-group.clickfunnels.com/webinar-registrationrgg5ay7l][2]
 
 ---
 
@@ -116,7 +83,7 @@ Join us on November 9th as we provide you with templates in how to:
 * How to effectively leverage the attendee list to book meetings with customers before, during and after events.
 * How to leverage the existing attendee list & partner with your incoming prospects to generate more attendees and customers?The session will be from 12:00 pm EST to 1:00 pm EST and there are limited seats available.
 
-Please RSVP right away at [https://access-group.clickfunnels.com/webinar-registrationjcbaj2r0][5]
+Please RSVP right away at [https://access-group.clickfunnels.com/webinar-registrationjcbaj2r0][3]
 
 ---
 
@@ -132,7 +99,7 @@ Join us on December 14th as we provide you with templates in how to:
 * Leverage your existing database to test your lead nurturing program
 * Create automated lean nurturing programs that work.
 
-The session will be from 12:00 pm EST to 1:00 pm EST and there are limited seats available. Please RSVP right away. [https://access-group.clickfunnels.com/webinar-registrationm1xej6iu][6]
+The session will be from 12:00 pm EST to 1:00 pm EST and there are limited seats available. Please RSVP right away. [https://access-group.clickfunnels.com/webinar-registrationm1xej6iu][4]
 
 ---
 
@@ -145,13 +112,11 @@ Join us on January 11th as we provide you with tools and techniques in how to:
 * Create engaging / relevant content &
 * Come up with effective "take action" now campaigns
 
-The session will be from 12:00 pm EST to 1:00 pm EST and there are limited seats available. Please RSVP right away here: [https://access-group.clickfunnels.com/webinar-registrationtkjkaemmhttps://access-group.clickfunnels.com/webinar-registrationtkjkaemm][7]
+The session will be from 12:00 pm EST to 1:00 pm EST and there are limited seats available. Please RSVP right away here: [https://access-group.clickfunnels.com/webinar-registrationtkjkaemmhttps://access-group.clickfunnels.com/webinar-registrationtkjkaemm][5]
 
-[0]: https://access-group.clickfunnels.com/webinar-registrationbn6n1bf2
-[1]: https://access-group.clickfunnels.com/webinar-registrationq8scmju3
-[2]: http://https/access-group.clickfunnels.com/webinar-registration7yqodb29
-[3]: http://https/access-group.clickfunnels.com/webinar-registration66g122uf
-[4]: https://access-group.clickfunnels.com/webinar-registrationrgg5ay7l
-[5]: http://https/access-group.clickfunnels.com/webinar-registrationjcbaj2r0
-[6]: https://access-group.clickfunnels.com/webinar-registrationm1xej6iu
-[7]: https://access-group.clickfunnels.com/webinar-registrationtkjkaemm
+[0]: http://https/access-group.clickfunnels.com/webinar-registration7yqodb29
+[1]: http://https/access-group.clickfunnels.com/webinar-registration66g122uf
+[2]: https://access-group.clickfunnels.com/webinar-registrationrgg5ay7l
+[3]: http://https/access-group.clickfunnels.com/webinar-registrationjcbaj2r0
+[4]: https://access-group.clickfunnels.com/webinar-registrationm1xej6iu
+[5]: https://access-group.clickfunnels.com/webinar-registrationtkjkaemm
