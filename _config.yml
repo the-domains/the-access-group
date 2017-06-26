@@ -65,9 +65,6 @@ navigation:
   - name: Events & Webinars
     id: 6696f918-73f4-4997-b13e-7745525e31a9
     type: content
-  - name: Services
-    id: 0c4adec0-8c51-4785-8a96-8284ca41d396
-    type: content
 layout_spectrum: 0.09726817852568508
 color:
   lightness: 0.6439788252065456
