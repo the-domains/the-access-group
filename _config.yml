@@ -1,3 +1,18 @@
+layout_spectrum: 0.01788397227164985
+typography_spectrum: 0.9527026108807266
+color:
+  lightness: 0.26913858456574014
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  saturation: 0.5576885533214796
+  brandStrength: 0.5328715954590958
+  rhythmicContrast: 0.07805532269521
+coverPrefs:
+  filter: false
 name: The Access Group
 analytics: {}
 purpose:
@@ -102,26 +117,11 @@ navigation:
   - name: Events & Webinars
     id: 6696f918-73f4-4997-b13e-7745525e31a9
     type: content
-layout_spectrum: 0.09726817852568508
-color:
-  lightness: 0.6439788252065456
-  brandColors:
-    - '#FFFFFF'
-    - '#599EEF'
-    - '#CFCFCF'
-    - '#8CBBF5'
-    - '#356FBA'
-  saturation: 0.6331187585716385
-  brandStrength: 0.004210160475795959
-  rhythmicContrast: 0.3889499847617665
 content_rating:
   adult: false
-typography_spectrum: 0.9555676956204605
 opengraph:
   appId: taimour.zaman@facebook.com
 title: >-
   Increase your sales using sales program and artificial intelligence
   technologies
-coverPrefs:
-  filter: false
 description: ''
