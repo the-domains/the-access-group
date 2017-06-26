@@ -23,11 +23,11 @@ author:
   email: taimour@access-group.ca
 name: The Access Group
 navigation:
-  - name: Blog
-    id: 19454a19-295d-48ce-9a89-55afc2089e27
-    type: content
   - name: About Founder
     id: a2e776ca-dd0f-487c-a322-03c7ce9ba874
+    type: content
+  - name: Blog
+    id: 19454a19-295d-48ce-9a89-55afc2089e27
     type: content
   - name: 'List of  Lead Generation Technologies, Consulting & Free Resources'
     id: f972a213-d9ff-4683-88e3-973556a1e66a
