@@ -1,5 +1,6 @@
-layout_spectrum: 0.01788397227164985
 typography_spectrum: 0.9527026108807266
+content_rating:
+  adult: false
 color:
   lightness: 0.26913858456574014
   brandColors:
@@ -11,19 +12,32 @@ color:
   saturation: 0.5576885533214796
   brandStrength: 0.5328715954590958
   rhythmicContrast: 0.07805532269521
-coverPrefs:
-  filter: false
-name: The Access Group
-analytics: {}
-purpose:
-  - type: external
-    url: 'https://live.vcita.com/site/taimourzaman'
-    label: Book Your 3 Points Revenue Generation Blue Print
 github: true
+opengraph:
+  appId: taimour.zaman@facebook.com
+layout_spectrum: 0.01788397227164985
+analytics: {}
 author:
   name: Taimour Zaman
   url: 'http://www.access-group.ca/'
   email: taimour@access-group.ca
+name: The Access Group
+navigation:
+  - name: Blog
+    id: 19454a19-295d-48ce-9a89-55afc2089e27
+    type: content
+  - name: About Founder
+    id: a2e776ca-dd0f-487c-a322-03c7ce9ba874
+    type: content
+  - name: 'List of  Lead Generation Technologies, Consulting & Free Resources'
+    id: f972a213-d9ff-4683-88e3-973556a1e66a
+    type: content
+  - name: Events & Webinars
+    id: 6696f918-73f4-4997-b13e-7745525e31a9
+    type: content
+  - name: Blog
+    id: f6b1ff71-ca44-4d2b-951d-eb3dc14da6b6
+    type: content
 collections:
   - index:
       path: /
@@ -36,6 +50,9 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: >-
+  Increase your sales using sales program and artificial intelligence
+  technologies
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
@@ -46,19 +63,17 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
+      datePublished: null
+      isBasedOnUrl: 'https://youtu.be/7hraupLO3aA'
+      keywords:
+        - ''
+      related: []
       author:
         - name: 'Taimour Zaman: The Access Group & OME'
           url: 'https://www.youtube.com/channel/UCsOMXjUN5sV9gbURIRGAfRg'
           avatar: {}
-      related: []
-      publisher:
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-        domain: youtu.be
-      keywords:
-        - ''
-      description: 'Uploaded by Taimour Zaman: The Access Group & OME on 2017-06-26.'
+      '@context': 'http://schema.org'
+      title: 056875168 4k mixed ethnicity business gr H264 420
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=7hraupLO3aA&feature=applinks'
@@ -97,31 +112,19 @@ content:
           package: '544007664'
           namespace: google
           type: ios
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'https://youtu.be/7hraupLO3aA'
-      title: 056875168 4k mixed ethnicity business gr H264 420
-      datePublished: null
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        domain: youtu.be
+      description: 'Uploaded by Taimour Zaman: The Access Group & OME on 2017-06-26.'
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-navigation:
-  - name: Blog
-    id: 19454a19-295d-48ce-9a89-55afc2089e27
-    type: content
-  - name: About Founder
-    id: a2e776ca-dd0f-487c-a322-03c7ce9ba874
-    type: content
-  - name: 'List of  Lead Generation Technologies, Consulting & Free Resources'
-    id: f972a213-d9ff-4683-88e3-973556a1e66a
-    type: content
-  - name: Events & Webinars
-    id: 6696f918-73f4-4997-b13e-7745525e31a9
-    type: content
-content_rating:
-  adult: false
-opengraph:
-  appId: taimour.zaman@facebook.com
-title: >-
-  Increase your sales using sales program and artificial intelligence
-  technologies
+coverPrefs:
+  filter: false
 description: ''
+purpose:
+  - type: external
+    url: 'https://live.vcita.com/site/taimourzaman'
+    label: Book Your 3 Points Revenue Generation Blue Print
