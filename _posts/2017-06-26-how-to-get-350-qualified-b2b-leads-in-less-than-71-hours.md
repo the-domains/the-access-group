@@ -1,9 +1,9 @@
 ---
 inFeed: true
-description: How to get 350 qualified B2B leads in less than 71 hours?
-dateModified: '2017-06-26T20:38:25.593Z'
-datePublished: '2017-06-26T20:38:26.114Z'
-title: ''
+description: Have you ever felt frustrated going through junk leads? I know I have.
+dateModified: '2017-06-26T20:38:52.880Z'
+datePublished: '2017-06-26T20:38:53.514Z'
+title: How to get 350 qualified B2B leads in less than 71 hours?
 author: []
 publisher: {}
 via: {}
@@ -15,7 +15,7 @@ url: how-to-get-350-qualified-b2b-leads-in-less-than-71-hours/index.html
 _type: Article
 
 ---
-**How to get 350 qualified B2B leads in less than 71 hours?**
+# **How to get 350 qualified B2B leads in less than 71 hours?**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8faf00a-55fb-4267-8473-1f501c0fbb2e.jpg)
 
 Have you ever felt frustrated going through junk leads? I know I have.
