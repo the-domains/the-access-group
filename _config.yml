@@ -21,37 +21,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: video
-    html: >-
-      <iframe
-      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fa8xhReAPWD0%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Da8xhReAPWD0&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fa8xhReAPWD0%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube"
-      width="640" height="360" scrolling="no" frameborder="0"
-      allowfullscreen></iframe>
-    src: !<tag:yaml.org,2002:js/undefined> ''
-    metadata:
-      author:
-        - name: 'Taimour Zaman: The Access Group & OME'
-          url: 'https://www.youtube.com/channel/UCsOMXjUN5sV9gbURIRGAfRg'
-          avatar: {}
-      datePublished: null
-      keywords: []
-      '@type': VideoObject
-      title: sales meetings
-      isBasedOnUrl: 'https://youtu.be/a8xhReAPWD0'
-      publisher:
-        favicon: 'https://www.youtube.com/favicon.ico'
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        domain: youtu.be
-      description: 'Uploaded by Taimour Zaman: The Access Group & OME on 2017-02-09.'
-      related: []
-      app_links: []
-      '@context': 'http://schema.org'
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 navigation:
   - name: Blog
     id: 19454a19-295d-48ce-9a89-55afc2089e27
