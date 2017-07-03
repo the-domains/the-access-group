@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: 'Blog : How to get 350 qualified B2B leads in less than 71 hours?'
-dateModified: '2017-07-03T18:08:52.649Z'
-datePublished: '2017-07-03T18:08:53.145Z'
+dateModified: '2017-07-03T18:09:29.294Z'
+datePublished: '2017-07-03T18:09:29.505Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 sourcePath: >-
   _posts/2017-07-03-blog-how-to-get-350-qualified-b2b-leads-in-less-than-71-ho.md
+datePublishedOriginal: '2017-07-03T18:09:29.505Z'
 starred: false
-datePublishedOriginal: '2017-07-03T18:08:27.485Z'
 _type: Blurb
 
 ---
