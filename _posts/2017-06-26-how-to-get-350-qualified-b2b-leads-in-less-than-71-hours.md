@@ -1,8 +1,8 @@
 ---
-inFeed: false
+inFeed: true
 description: Have you ever felt frustrated going through junk leads? I know I have.
-dateModified: '2017-06-26T21:26:27.979Z'
-datePublished: '2017-06-26T21:26:28.462Z'
+dateModified: '2017-07-03T16:28:47.406Z'
+datePublished: '2017-07-03T16:28:48.037Z'
 title: Blog
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2017-06-26T21:23:26.641Z'
 url: blog/index.html
-_type: Blurb
+_type: Article
 
 ---
 # **Blog**
