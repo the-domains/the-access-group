@@ -48,7 +48,7 @@ collections:
     permalink:
       path: '/:title/'
 title: >-
-  Increase your sales using sales program and artificial intelligence
+  Increase your revenues using sales program and artificial intelligence
   technologies
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
