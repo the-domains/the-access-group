@@ -1,21 +1,23 @@
-typography_spectrum: 0.9527026108807266
-content_rating:
-  adult: false
+layout_spectrum: 0.26416572478664396
+typography_spectrum: 0.9548292461266317
 color:
-  lightness: 0.26913858456574014
+  lightness: 0.9548201720894194
   brandColors:
     - '#FFFFFF'
     - '#CCCCCC'
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-  saturation: 0.5576885533214796
-  brandStrength: 0.5328715954590958
-  rhythmicContrast: 0.07805532269521
+  saturation: 0.8371362726330425
+  brandStrength: 0.30790329622381396
+  rhythmicContrast: 0.33771206077925936
+coverPrefs:
+  filter: false
+content_rating:
+  adult: false
 github: true
 opengraph:
   appId: taimour.zaman@facebook.com
-layout_spectrum: 0.01788397227164985
 analytics: {}
 author:
   name: Taimour Zaman
@@ -118,8 +120,6 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-coverPrefs:
-  filter: false
 description: ''
 purpose:
   - type: external
